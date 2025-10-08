@@ -94,7 +94,7 @@
 - 🔐 **GCP IAM Role Auditor** *(Planned)*  
   Script using GCP SDK to detect overly permissive roles in Google Cloud projects.
 
-- 🌐 **OWASP Top 10 Vulnerable Web App** *(In Development)*  
+- 🌐 **[OWASP Top 10 Vulnerable Web App](https://manh4ck01.github.io/OWASP-Top-10-Vulnerable-Web-App-/)**  
   Simple HTML/JS site showcasing vulnerabilities like XSS, CSRF, IDOR — with secure and insecure versions.
 
 - ⚙️ **Mini-SOAR Automation** *(Coming Soon)*  
