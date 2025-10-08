@@ -1,11 +1,32 @@
 <h1 align="center">👋 Hi, I’m <span style="color:#4CAF50;">Makhosi Andile Surge</span></h1>
 <p align="center">
-  <strong>Cybersecurity Analyst</strong> • <strong>Web Developer</strong> • <strong>Digital Marketer</strong><br/>
-  Passionate about securing systems, building sleek web experiences, and solving real-world tech challenges.
+  <strong>Aspiring Security Engineer | Web Developer with a Security Focus</strong><br/>
+  Passionate about securing systems, automating detection, and solving real-world security problems.
+</p>
+---
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=manh4ck01&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manh4ck01&layout=compact&theme=radical&hide_border=true" 
+    width="48%" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=manh4ck01&theme=radical&hide_border=true" 
+    width="96%" 
+  />
 </p>
 
 ---
+
 ## 📊 GitHub Stats & Badges
+
 ### 🎓 Certifications
 
 <table align="center">
@@ -28,11 +49,11 @@
     </td>
     <td align="center">
       <a href="https://socready.netlify.app/Certificates/Marketing/GitLab%20Cert/Professional%20Sales%20Accreditation%20for%20Partners.pdf" title="GitLab Certified Professional Sales Accreditation for Partners" target="_blank" rel="noopener noreferrer">
-  <img 
-    src="https://img.shields.io/badge/GitLab-Certified%20Professional%20Sales%20Accreditation-orange?style=for-the-badge&logo=gitlab&logoColor=white" 
-    alt="GitLab Certified Professional Sales Accreditation Badge" 
-  />
-</a>
+        <img 
+          src="https://img.shields.io/badge/GitLab-Certified%20Professional%20Sales%20Accreditation-orange?style=for-the-badge&logo=gitlab&logoColor=white" 
+          alt="GitLab Certified Professional Sales Accreditation Badge" 
+        />
+      </a>
     </td>
     <td align="center">
       <a href="https://socready.netlify.app/Certificates/Marketing/Semrush%20Cert/SEO.pdf" title="SEMRush SEO Certified (View PDF)" target="_blank" rel="noopener noreferrer">
@@ -45,114 +66,103 @@
   </tr>
 </table>
 
-## 📊 Git Analytics
+---
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=manh4ck01&show_icons=true&theme=radical&hide_border=true&count_private=true" 
-    alt="GitHub Stats" 
-    width="48%" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manh4ck01&layout=compact&theme=radical&hide_border=true" 
-    alt="Top Languages" 
-    width="48%" 
-  />
-</p>
+## 🛡️ Cybersecurity Projects & Tools
 
+### 🧪 Featured Projects
 
-<!-- 🔥 Optional: GitHub Streak Chart -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manh4ck01&theme=radical&hide_border=true" alt="GitHub Streak" width="96%" />
-</p>
+> Hands-on, practical, and built with real-world security tasks in mind.
 
+- 🔍 **[Tiny-OSINT](https://github.com/manh4ck01/Tiny-OSINT)**  
+  Lightweight Python tool to gather email, domain, and IP intelligence for reconnaissance.
+
+- 📄 **Log Parser (Windows Logs)** *(Coming Soon)*  
+  Python script that parses sample Windows Event Logs to extract failed logins and suspicious patterns.
+
+- 🔐 **GCP IAM Role Auditor** *(Planned)*  
+  Script using GCP SDK to detect overly permissive roles in Google Cloud projects.
+
+- 🌐 **OWASP Top 10 Vulnerable Web App** *(In Development)*  
+  Simple HTML/JS site showcasing vulnerabilities like XSS, CSRF, IDOR — with secure and insecure versions.
+
+- ⚙️ **Mini-SOAR Automation** *(Coming Soon)*  
+  Mock SOAR tool that takes basic alerts and triggers scripted responses via Python.
 
 ---
 
-## 🛡 Cybersecurity Projects & Tools
+### 🧰 Tools & Tech I Use
 
-- **Security Operations & Threat Detection (SOC)**  
-  Hands-on experience with SIEM, Log Analysis, XDR, MITRE ATT&CK, Splunk, Wireshark. SC-200 (In Progress).
-
-- **Bug Bounty & Web Security**  
-  Completed 20+ PortSwigger Labs (XSS, CSRF, IDOR, Auth Bypass). Hunting on HackerOne and Bugcrowd.
-
-- **Toolbelt**  
-  Burp Suite, Nuclei, Git, HTB Labs, VS Code, Netlify.
-
----
-
-## 🌐 Web Development Projects
-
-- **Responsive Lead Gen Websites**  
-  Custom forms, WhatsApp chat, Google Analytics, SEO best practices.
-
-- **Founder of Marketing ACE**  
-  Providing local businesses with secure, optimized web solutions.
-
-- **Stack**: HTML5, CSS3, JavaScript (ES6+), Tailwind, React (learning), REST APIs
+- **Defensive Security**: MITRE ATT&CK, SIEM (Splunk), Log Analysis, XDR, Incident Response
+- **Offensive Security**: Burp Suite, Nuclei, HackTheBox, OWASP ZAP, Recon Tools
+- **Automation**: Python, Bash scripting
+- **Cloud**: Google Cloud IAM & Logging, GCP CLI, Netlify (hosting)
+- **Web Security**: OWASP Top 10, PortSwigger Labs, VAPT workflows
 
 ---
 
 ## 🎓 Certifications & Training
 
 - 🛡 ISC2 Certified in Cybersecurity (2025)  
-- 📘 Microsoft SC-200 (In Progress)  
-- 📊 Google Ads & Digital Marketing (2025)  
-- 🧠 Semrush + HubSpot (SEO, Content, Social Media)  
-- 💻 Cybersecurity Diploma – E-learning (July 2025)
+- 📘 Microsoft SC-200 (Security Operations Analyst) – *In Progress*  
+- 🌐 Google Cloud Fundamentals – *In Progress*  
+- 🧠 FreeCodeCamp: Responsive Web Design Certified  
+- 🎯 Cybersecurity Diploma – E-Learning (July 2025)  
+- 🔍 TryHackMe & PortSwigger Labs (Active)
 
 ---
 
 ## 🧠 Skills Snapshot
 
-- **Security**: SIEM, Threat Detection, Incident Response, OWASP Top 10  
-- **Frontend**: HTML, CSS, JavaScript, Tailwind  
-- **Backend (Learning)**: MySQL, REST APIs  
-- **Cyber Labs**: Hack The Box, VAPT, Threat Intel  
-- **Dev Tools**: Git, GitHub, DevTools, VS Code, Netlify
+| Domain            | Skills & Tools |
+|-------------------|----------------|
+| **Security**       | SIEM, MITRE, Threat Detection, Log Parsing, Incident Response |
+| **Scripting**      | Python, Bash, GCP SDK, APIs |
+| **Cloud**          | GCP IAM, Logging, Misconfiguration Detection |
+| **Web Dev + Sec**  | HTML, CSS, JavaScript, Burp Suite, OWASP Labs |
+| **Labs / Platforms**| Hack The Box, TryHackMe, Splunk Free, Juice Shop |
 
 ---
 
-## 💼 Experience
+## 💼 Work Experience
 
-- **Marketing ACE – Freelance (Mar 2025–Present)**  
-  Content marketing, secure sites, SEO consulting for small businesses (Gauteng, SA)
+### ⚙️ Freelance Cybersecurity & Web (Mar 2025–Present)
+- Built secure, responsive client sites with marketing automation and SEO
+- Conducted basic vulnerability assessments and hardening for WordPress clients
+- Deployed sites on Netlify with HTTPS, security headers, and monitoring
 
-- **Freelance Web Developer (Jan 2024–Present)**  
-  Created secure, SEO-ready websites for local clients in Randburg, SA
+### 🌐 Freelance Web Developer (Jul 2024–Present)
+- Created SEO‑friendly, client‑optimized websites using HTML/CSS/JS
+- Implemented basic security (input validation, HTTPS setup, 2FA plugins)
 
-- **Assistant Mechanic – Hot Rod Auto (Jul–Dec 2024)**  
-  Discipline, problem-solving, teamwork under pressure
+### 🧰 Assistant Mechanic – Hot Rod Auto (Jan–Dec 2024)
+- Developed problem-solving skills, attention to detail, and real-world troubleshooting mindset
 
 ---
 
 ## 🔎 Open To
 
-- 🎯 SOC Analyst Internships  
-- 🎯 Junior Security Analyst Roles  
-- 🎯 Bug Bounty Collaborations & Real-World Projects  
+- 💼 SOC Analyst Internships  
+- 🧪 Junior Security Analyst / Threat Detection Roles  
+- 💻 Bug Bounty / CTF Team Collabs  
+- 🌍 Remote or South Africa-based security roles  
+- 👥 Open source or security project contributions
 
 ---
 
-## 🎯 Interests
+## 🎯 Personal Interests
 
-- Blogging about cybersecurity & self-taught journeys  
-- Music production, freestyling, and Pantsula dancing  
-- Documenting & building a self-made career in tech  
+- Blogging about cybersecurity & self-taught learning  
+- Freestyling, music production, and Pantsula dancing  
+- Building a self-made career from 0 → Security Engineer
 
 ---
 
 ## 📱 Let’s Connect
 
-<a href="https://www.linkedin.com/in/makhosi-andile-surge-8141b1316" target="_blank" rel="noopener">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=61561258534709" target="_blank" rel="noopener">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<br clear="both"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/makhosi-andile-surge-8141b1316" target="_blank">
+    <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+</p>
 
----
-
-<!-- Replace YOUR_USERNAME and YOUR_LINKEDIN with your real handles -->
