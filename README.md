@@ -3,7 +3,6 @@
   <strong>Aspiring Security Engineer | Web Developer with a Security Focus</strong><br/>
   Passionate about securing systems, automating detection, and solving real-world security problems.
 </p>
----
 
 <p align="center">
   <img 
@@ -84,6 +83,10 @@
 
 - 🔍 **[Tiny-OSINT](https://github.com/manh4ck01/Tiny-OSINT)**  
   Lightweight Python tool to gather email, domain, and IP intelligence for reconnaissance.
+
+- 📡 **[NetSage](https://github.com/manh4ck01/NetSage)** 
+  Open-source network monitoring dashboard (inspired by ELK stack) that visualizes network traffic, suspicious events, and latency spikes using Python, Flask, and open APIs. Designed for use in SOC labs and training environments.
+
 
 - 📄 **Log Parser (Windows Logs)** *(Coming Soon)*  
   Python script that parses sample Windows Event Logs to extract failed logins and suspicious patterns.
