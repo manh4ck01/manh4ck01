@@ -40,6 +40,14 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://cloud.google.com/security" title="Google Cloud Security Training & Certification" target="_blank" rel="noopener noreferrer">
+      <img 
+        src="https://img.shields.io/badge/Google%20Cloud-Cybersecurity%20Training-blue?style=for-the-badge&logo=googlecloud&logoColor=white" 
+       alt="Google Cloud Cybersecurity Training Badge" 
+      />
+      </a>
+    </td>
+    <td align="center">
       <a href="https://learn.microsoft.com/en-us/certifications/exams/sc-200/" title="Microsoft SC-200 (Security Operations Analyst)" target="_blank" rel="noopener noreferrer">
         <img 
           src="https://img.shields.io/badge/Microsoft-SC--200%20In%20Progress-orange?style=for-the-badge&logo=microsoft&logoColor=white" 
