@@ -114,10 +114,10 @@
 
 ## 🎓 Certifications & Training
 
-- 🛡 ISC2 Certified in Cybersecurity (2025)  
+- 🛡 ISC2 Certified in Cybersecurity – *In Progress* 
 - 📘 Microsoft SC-200 (Security Operations Analyst) – *In Progress*  
-- 🌐 Google Cloud Fundamentals – *In Progress*  
-- 🧠 FreeCodeCamp: Responsive Web Design Certified  
+- 🌐 Google Cloud Cybersecurity Certified
+- 🧠 FreeCodeCamp: Responsive Web Design Certified 
 - 🎯 Cybersecurity Diploma – E-Learning (July 2025)  
 - 🔍 TryHackMe & PortSwigger Labs (Active)
 
