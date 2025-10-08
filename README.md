@@ -142,7 +142,7 @@
 - Conducted basic vulnerability assessments and hardening for WordPress clients
 - Deployed sites on Netlify with HTTPS, security headers, and monitoring
 
-### 🌐 Freelance Web Developer (Jul 2024–Present)
+### 🌐 Freelance Web Developer (Jan 2024–Present)
 - Created SEO‑friendly, client‑optimized websites using HTML/CSS/JS
 - Implemented basic security (input validation, HTTPS setup, 2FA plugins)
 
