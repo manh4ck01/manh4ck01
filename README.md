@@ -97,7 +97,7 @@
 - 🌐 **[OWASP Top 10 Vulnerable Web App](https://manh4ck01.github.io/OWASP-Top-10-Vulnerable-Web-App-/)**  
   Simple HTML/JS site showcasing vulnerabilities like XSS, CSRF, IDOR — with secure and insecure versions.
 
-- ⚙️ **Mini-SOAR Automation** *(Coming Soon)*  
+- ⚙️ **[Mini-SOAR Automation](https://github.com/manh4ck01/mini-soar)** 
   Mock SOAR tool that takes basic alerts and triggers scripted responses via Python.
 
 ---
