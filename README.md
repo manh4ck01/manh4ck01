@@ -88,7 +88,7 @@
   Open-source network monitoring dashboard (inspired by ELK stack) that visualizes network traffic, suspicious events, and latency spikes using Python, Flask, and open APIs. Designed for use in SOC labs and training environments.
 
 
-- 📄 **Log Parser (Windows Logs)** *(Coming Soon)*  
+- 📄 **[Log Parser (Windows Logs)](https://github.com/manh4ck01/WindowsLogParser/tree/main)**  
   Python script that parses sample Windows Event Logs to extract failed logins and suspicious patterns.
 
 - 🔐 **GCP IAM Role Auditor** *(Planned)*  
